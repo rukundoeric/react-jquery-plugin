@@ -1,5 +1,5 @@
-# react-jquery-plugin
-[![NPM](https://img.shields.io/npm/v/prestein-dante.svg)](https://www.npmjs.com/package/prestein-dante) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+# React jquery plugin
+[![NPM](https://img.shields.io/npm/v/react-jquery-plugin.svg)](https://www.npmjs.com/package/prestein-dante) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 This tool will help you to use jquery plugins like `easing`, `ScrollMagic`, `Nice Select`,etc.. in react very easy. 
 
